@@ -30,16 +30,12 @@ O repositório está organizado por capítulo do livro. Cada capítulo contém u
 - **Bibliotecas Utilizadas:** Nenhuma até o momento
 
 ## Sobre o Livro
-<img src="capalivro.jpg">
+<img src="CapaLivro.jpg" width="330" height="400">
+
 A obra aborda aspectos históricos, como origem, fundamentação, breve análise da programação estruturada em comparação com a programação orientada a objetos. Apresenta o resumo dos principais termos usados e discute a questão do polimorfismo versus poliformismo. Também trata de classe, objeto, atributo, método, herança e encapsulamento, com alguns exemplos de aplicação para auxiliar a compreensão.
 Nesta edição foram acrescentados a implementação de um exemplo de uso de matriz em estilo dinâmico e o exemplo do programa calculadora codificado na linguagem de programação D.
 É indicada a estudantes de programação de computadores interessados em aprender e usar técnicas de programação com foco na norma ISO 5807:1985.
-O livro "Algoritmos - Lógica para Desenvolvimento de Programação de Computadores" abrange os principais conceitos de programação de computadores, incluindo:
-- Fundamentos: entrada, processamento, saída, tipos de dados, variáveis, constantes, operadores aritméticos e expressões aritméticas.
-- Estruturas de controle: tomada de decisão, laços condicional e incondicional.
-- Estruturas de dados: matrizes, técnicas de ordenação e busca, uso de registros.
-- Funções e procedimentos: organização de um programa em sub-rotinas, procedimentos, funções e passagens de parâmetro.
-- Algoritmos avançados: medidas de complexidade, fundamentos de otimalidade e backtracking, busca de padrões em strings.
+
 
 ## Como Usar
 Para usar este repositório, você pode:
